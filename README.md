@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido para testar as habilidades adquiridas no curso Dev
 ## 🏷️ Layout
 Você pode visualizar o layout do projeto através
 [desse link](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
-É necessário ter uma conta no [Figma](https://www.frontendmentor.io/)
+É necessário ter uma conta no [Frontend Mentor](https://www.frontendmentor.io/)
